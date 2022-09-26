@@ -6,3 +6,8 @@ function BotSendForm() {
   xhttp.open("GET", url + message, true);
   xhttp.send();
 }
+
+
+{hi
+just for  fun
+}
